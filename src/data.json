@@ -1,0 +1,36 @@
+[{
+  "id": 1,
+  "firstName": "Otis",
+  "lastName": "Springtorpe",
+  "email": "ospringtorpe0@shutterfly.com",
+  "gender": "Male",
+  "city": "Khudāydād Khēl"
+}, {
+  "id": 2,
+  "firstName": "Suzi",
+  "lastName": "Cobbled",
+  "email": "scobbled1@github.io",
+  "gender": "Bigender",
+  "city": "Qingshanhu"
+}, {
+  "id": 3,
+  "firstName": "Ariel",
+  "lastName": "Seeds",
+  "email": "aseeds2@noaa.gov",
+  "gender": "Agender",
+  "city": "Pingshan"
+}, {
+  "id": 4,
+  "firstName": "Maegan",
+  "lastName": "Tidbold",
+  "email": "mtidbold3@cpanel.net",
+  "gender": "Female",
+  "city": "Seixo da Beira"
+}, {
+  "id": 5,
+  "firstName": "Brittany",
+  "lastName": "Rickeard",
+  "email": "brickeard4@walmart.com",
+  "gender": "Female",
+  "city": "Nogueira"
+}]
